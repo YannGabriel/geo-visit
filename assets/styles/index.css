@@ -21,6 +21,9 @@ body, html {
   height: 40px;
 }
 
+.carousel{
+  margin-top: 4rem;
+}
 .carroussel-image, .card-img-top{
   object-fit: cover;
   object-position: center;
