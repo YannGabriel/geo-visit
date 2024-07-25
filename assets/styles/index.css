@@ -17,6 +17,14 @@ body, html {
   --bs-body-font-family:  Arial, Helvetica, sans-serif;
 }
 
+section{
+  scroll-margin-top: 4rem;
+}
+
+main{
+  scroll-margin-top: 5rem;
+}
+
 .logo {
   width: 40px;
   height: 40px;
