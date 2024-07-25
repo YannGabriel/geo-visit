@@ -26,7 +26,7 @@ body, html {
   margin-top: 4rem;
 }
 
-.carroussel-image, .card-img-top{
+.carroussel-image, .card-img-top, .img-fluid {
   object-fit: cover;
   object-position: center;
   width: 100%;
