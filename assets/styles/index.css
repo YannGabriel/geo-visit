@@ -12,6 +12,21 @@
   --title: rgb(44, 188, 44);
 }
 
+body::-webkit-scrollbar {
+  width: 3px;
+}
+
+body::-webkit-scrollbar-track {
+  background: white; 
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: var(--title); 
+  border-radius: 20px; 
+  border: none; 
+}
+
+
 body, html {
   background-color: var(--bckg-color);
   --bs-body-font-family:  Arial, Helvetica, sans-serif;
